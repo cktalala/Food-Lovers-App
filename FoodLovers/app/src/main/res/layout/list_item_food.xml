@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="240dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginLeft="10dp">
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="xxxxxxxx"
+            android:textSize="24dp"
+            android:textColor="@color/black"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            android:layout_marginTop="7dp">
+
+            <TextView
+                android:id="@+id/loca"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="5dp"
+                android:text="washoku"
+                android:textColor="#777777"
+                android:textSize="16dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/price"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="555 Baht"
+                android:textColor="#FF5722"
+                android:textSize="16dp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                >
+                <ImageView
+                    android:id="@+id/star1"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"/>
+                <ImageView
+                    android:id="@+id/star2"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"/>
+                <ImageView
+                    android:id="@+id/star3"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"/>
+                <ImageView
+                    android:id="@+id/star4"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"/>
+                <ImageView
+                    android:id="@+id/star5"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop" />
+</LinearLayout>

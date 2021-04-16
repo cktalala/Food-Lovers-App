@@ -1,0 +1,58 @@
+[
+  {
+    "imgFile": "f1",
+    "Food": "Sushi",
+    "Store": "和食, washoku",
+    "price": "300 Baht",
+    "star": 4,
+    "data": "Sushi (寿司 or 鮨) is the most famous Japanese dish outside of Japan, and one of the most popular dishes among the Japanese. In Japan, sushi is usually enjoyed on special occasions, such as a celebration."
+  },
+  {
+    "imgFile": "f2",
+    "Food": "Tempura",
+    "Store": "和食, washoku",
+    "price": "250 Baht",
+    "star": 3,
+    "data": "Tempura (天ぷら) are pieces of lightly battered, deep fried seafood and vegetables. Introduced to Japan during the 16th century by the Portuguese in Nagasaki, tempura has developed over the centuries into a popular Japanese dish both inside and outside of Japan. Tempura can be found in many types of restaurants across the country, where it is commonly served as a main dish, side dish or as a topping for tendon rice bowls, or udon and soba noodle dishes. The following are some of the most popular varieties of tempura pieces:"
+  },
+  {
+    "imgFile": "f3",
+    "Food": "Japanese Tofu",
+    "Store": "和食, washoku",
+    "price": "50 Baht",
+    "star": 2,
+    "data": "Tofu is made of curdled soy milk, pressed into blocks in a process similar to making cheese. It is a good source of protein and a staple of Japanese cuisine. Tofu is an especially important ingredient in vegetarian Buddhist temple cuisine (shojin ryori). On its own, fresh tofu has a delicate taste. It is a versatile food that can be used in a variety of sweet and savory dishes."
+  },
+  {
+    "imgFile": "f4",
+    "Food": "Udon Noodles",
+    "Store": "和食, washoku",
+    "price": "300 Baht",
+    "star": 5,
+    "data": "Udon (うどん) are thick Japanese noodles made of wheat flour. They are thicker than soba noodles, white and chewier. Udon is widely available at restaurants across Japan and prepared in various hot and cold dishes."
+  },
+  {
+    "imgFile": "f5",
+    "Food": "Soba Noodles",
+    "Store": "和食, washoku",
+    "price": "450 Baht",
+    "star": 3,
+    "data": "Soba (そば) noodles are noodles made of buckwheat flour, roughly as thick as spaghetti, and prepared in various hot and cold dishes. Soba dishes are very popular and easily available nationwide. As 100% buckwheat soba noodles tend to be brittle, many restaurants add some wheat flour when preparing their noodles. Depending on the shop, the percentage of buckwheat flour in soba noodles typically ranges between 40% and 100%."
+  },
+  {
+    "imgFile": "f6",
+    "Food": "Sashimi",
+    "Store": "和食, washoku",
+    "price": "670 Baht",
+    "star": 5,
+    "data": "Sashimi (刺身) is thinly sliced, raw food. It is one of the most famous dishes in the Japanese cuisine. Seafood is most commonly eaten as sashimi, but other types of meats (such as beef, horse and deer) and foods (such as yuba tofu skin and konnyaku) can also be served as sashimi. Some people confuse sashimi with sushi. Unlike sashimi, sushi includes vinegared rice."
+  },
+  {
+    "imgFile": "f7",
+    "Food": "Hot pot dishes (nabe)",
+    "Store": "和食, washoku",
+    "price": "1,050 Baht",
+    "star": 1,
+    "data": "Nabe (鍋) is the term used to describe Japanese hot pot dishes as well as the hot pot itself. Nabe is a popular winter dish that is typically cooked and eaten at the table. Common ingredients found in nabe include vegetables, mushrooms"
+  }
+]
